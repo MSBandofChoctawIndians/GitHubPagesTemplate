@@ -1,9 +1,10 @@
-import Link from 'next/link'
+// app/page.tsx
+import {Button} from '@nextui-org/button'; 
 
-export default function Home() {
+export default function Page() {
   return (
     <div>
-      Hello World. <Link href="/about">About</Link>
+      <Button>Click me</Button>
     </div>
   )
 }
