@@ -1,5 +1,5 @@
-1:HL["/gh-pages-test/_next/static/css/58811ed089455ec4.css","style",{"crossOrigin":""}]
-0:["r3k4DsamR85UweRh-Enis",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/gh-pages-test/_next/static/css/58811ed089455ec4.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+1:HL["/GitHubPagesTemplate/_next/static/css/58811ed089455ec4.css","style",{"crossOrigin":""}]
+0:["ww9RfTOedhS2alFL9pzfm",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/GitHubPagesTemplate/_next/static/css/58811ed089455ec4.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:I[7618,["539","static/chunks/539-ad30cbf820cbe20f.js","185","static/chunks/app/layout-52365b14a648bc0f.js"],"Providers"]
 5:I[6954,[],""]
 6:I[7264,[],""]
